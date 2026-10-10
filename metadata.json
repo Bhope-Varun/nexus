@@ -1,0 +1,6 @@
+{
+  "name": "Nexus Corporate",
+  "description": "Enterprise financial portal and backend with role-based JWT authentication, IDOR prevention, MongoDB models, and invoice management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
